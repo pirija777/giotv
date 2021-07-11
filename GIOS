@@ -1,22 +1,25 @@
-#EXTINF:-1tvg-logo="" group-title="DEPORTE",TIGO SPORT
+#EXTINF:-1tvg-logo="" group-title="DEPORTE",TIGO SPORT PR
 https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/21ec7610fb8c4438ab96f2ab74010a9a/index_6.m3u8?thejoelc
-#EXTINF:-1tvg-logo"" group-title="DEPORTE",TIGO  https://d3kzwqwnq1f7tq.cloudfront.net:443/out/v1/21ec7610fb8c4438ab96f2ab74010a9a/index_6.m3u8?SBN
-#EXTINF:-1tvg-logo="" group-title="OTROS",RCN https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZR_SmPTCfhzjY8Ld65xGjgg)/p/dm/3/x7vyv0z/s/live-3.m3u8?SBN
-#EXTINF:-1tvg-logo="" group-title="OTROS",UNIVISION https://qlobbidev.s.llnwi.net:443/bpk-tv/UNIVISION/hls/UNIVISION-audio_132128_spa=128000-video=2900000.m3u8?SBN
-#EXTINF:-1tvg-logo="" group-title="OTROS", AMÉRICA TV
-https://qlobbidev.s.llnwi.net:443/bpk-tv/AMERICATV/hls/AMERICATV-audio_128175_eng=128000-video=2900000.m3u8?SBN
+#EXTINF:-1tvg-logo"" group-title="DEPORTE",TIGO SPORT 2 
+https://d3kzwqwnq1f7tq.cloudfront.net:443/out/v1/21ec7610fb8c4438ab96f2ab74010a9a/index_6.m3u8?SBN
+#EXTINF:-1tvg-logo="" group-title="DEPORTE",TIGO  2
+https://d108h32trr4h8c.cloudfront.net/out/v1/d543fa4ff337450db0e38fcc19705c21/index_3.m3u8?thejoelc
+#EXTINF:-1tvg-logo="" group-title="DEPORTE",TIGOe 2
+http://cdn89.sportsbay.site:2052/live-2/444/chunks.m3u8?nimblesessionid=159876069&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIxIDk6NDU6MDIgUE0maGFzaF92YWx1ZT16cnk4bGY3ODlMODRwWFF2eTRZRXBBPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
+#EXTINF:-1tvg-logo="" group-title="DEPORTE",TIGO SPORT 3
+http://cdn89.sportsbay.site:2052/live-2/445/chunks.m3u8?nimblesessionid=160024152&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIxIDEwOjMyOjI0IFBNJmhhc2hfdmFsdWU9WFFndGlpcWRwRVBsVkptRndDTDIyQT09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=
+#EXTINF:-1tvg-logo="" group-title="OTROS",RCN 
+https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZR_SmPTCfhzjY8Ld65xGjgg)/p/dm/3/x7vyv0z/s/live-3.m3u8?SBN
+#EXTINF:-1tvg-logo="" group-title="OTROS",UNIVISION 
+https://qlobbidev.s.llnwi.net:443/bpk-tv/UNIVISION/hls/UNIVISION-audio_132128_spa=128000-video=2900000.m3u8?SBN
 #EXTINF:-1tvg-logo="" group-title="OTROS",TP5
 http://91.126.141.13:1935/live/61/1800-def.m3u8
-#EXTINF:-1tvg-logo="" group-title="DEPORTE",TDN http://209.126.105.142:25461/live/ab2e5dfbd6814b71a25a7d991ed46ad6/56e80de728e84f969b66805f66b247b3/14.m3u8?thejoelc
-#EXTINF:-1tvg-logo="" group-title="DEPORTE",SPTV http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8?thejoelc
+#EXTINF:-1tvg-logo="" group-title="DEPORTE",TDN 
+http://209.126.105.142:25461/live/ab2e5dfbd6814b71a25a7d991ed46ad6/56e80de728e84f969b66805f66b247b3/14.m3u8?thejoelc
+#EXTINF:-1tvg-logo="" group-title="DEPORTE",SPTV 
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8?thejoelc
 #EXTINF:-1tvg-logo="" group-title="OTROS",AMÉRICA TV2
 https://qlobbidev.s.llnwi.net/bpk-tv/AMERICATV/hls/AMERICATV-audio_128175_eng=128000-video=2900000.m3u8
-#EXTINF:-1tvg-logo="" group-title="DEPORTE",SPN BR
-https://abr-f.eu-central-1.edge.mycdn.live/eiplus/be5636c6c01057bec95887daaa1fa93a/playlist.m3u8?thejoelc
-#EXTINF:-1tvg-logo="" group-title="DEPORTE",TNT SPORT
-https://akamai2-br.cdn.booyah.live/hls/1000048/71112076.m3u8?thejoelc
-#EXTINF:-1tvg-logo="" group-title="DEPORTE",TIGO 2
-https://d108h32trr4h8c.cloudfront.net/out/v1/d543fa4ff337450db0e38fcc19705c21/index_3.m3u8?thejoelc
 #EXTINF:-1tvg-logo="" group-title="OTROS", TP4
 http://91.126.141.13:1935/live/51/1800-def.m3u8
 #EXTINF:-1tvg-logo="" group-title="DEPORTE",EUROSPORT 1
@@ -60,15 +63,17 @@ https://blackghost.live/get/tespn.php?canal=espn_sur&file=.m3u8
 https://blackghost.live/get/tespn.php?canal=espn2_sur&file=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTE",Espn 3 
 https://blackghost.live/get/tespn.php?canal=espn3_sur&file=.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Fox Sports 
-1 Argentina https://blackghost.live/get/tespn.php?canal=fox1ar&file=.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Fox Sports 2 Arg
+#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Fox Sports 1 Argentina 
+https://blackghost.live/get/tespn.php?canal=fox1ar&file=.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Fox Sports 2 Argentina 
 https://blackghost.live/get/tespn.php?canal=fox2ar&file=.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTE",Fox Sports Premium 
 https://blackghost.live/get/tespn.php?canal=foxpar&file=.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTE",Fox Deportes 
 https://blackghost.live/get/tespn.php?canal=foxdep&file=.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",TNT Sport 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTE",TNT Sport1 
 https://akamai2-br.cdn.booyah.live/hls/1000010/71112076.m3u8
-
-
+#EXTINF:-1 tvg-logo="" group-title="DEPORTE",TNT Sport2
+http://cdn89.sportsbay.site:2052/live-2/297/chunks.m3u8?nimblesessionid=160036241&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIxIDEwOjQ0OjE4IFBNJmhhc2hfdmFsdWU9RGYzR25zVUplTWx2VUxkOEpvQVB2dz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=
+#EXTINF:-1 tvg-logo="" group-title="DEPORTE",UFC
+http://cdn89.sportsbay.site:2052/live-2/302/chunks.m3u8?nimblesessionid=160039081&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIxIDEwOjQ3OjMzIFBNJmhhc2hfdmFsdWU9L2Q0eXlOYlVpeXRueDdpSTZTaVRaQT09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=
