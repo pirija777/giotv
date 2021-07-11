@@ -1,6 +1,6 @@
 #EXTINF:-1tvg-logo="" group-title="DEPORTE",TIGO SPORT
 https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/21ec7610fb8c4438ab96f2ab74010a9a/index_6.m3u8?thejoelc
-#EXTINF:-1tvg-logo"" group-title="DEPORTE",TIGO 2 https://d3kzwqwnq1f7tq.cloudfront.net:443/out/v1/21ec7610fb8c4438ab96f2ab74010a9a/index_6.m3u8?SBN
+#EXTINF:-1tvg-logo"" group-title="DEPORTE",TIGO  https://d3kzwqwnq1f7tq.cloudfront.net:443/out/v1/21ec7610fb8c4438ab96f2ab74010a9a/index_6.m3u8?SBN
 #EXTINF:-1tvg-logo="" group-title="OTROS",RCN https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZR_SmPTCfhzjY8Ld65xGjgg)/p/dm/3/x7vyv0z/s/live-3.m3u8?SBN
 #EXTINF:-1tvg-logo="" group-title="OTROS",UNIVISION https://qlobbidev.s.llnwi.net:443/bpk-tv/UNIVISION/hls/UNIVISION-audio_132128_spa=128000-video=2900000.m3u8?SBN
 #EXTINF:-1tvg-logo="" group-title="OTROS", AMÉRICA TV
@@ -38,21 +38,37 @@ http://91.126.141.13:1935/live/61/playlist.m3u8
 https://vsd109.mycdn.me:443/hls/1331274713855.m3u8/sig/DlYHgbClzIA/expires/1625684719145/srcIp/85.85.29.12/clientType/0/srcAg/CHROME_ANDROID/mid/2283186560767/1331274713855_high/index.m3u8?SBN
 #EXTINF:-1tvg-logo="" group-title="OTROS", TELEVISION 5
 https://live.telecinco.es/hls/live/2004101/telecinco/bitrate_4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",TUDN https://blackghost.live/sat/w-711.php?url=c78idlive21&k=blackgh0o0st&file=.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Bein n http://matiasstornini00.shortcm.li/shio1.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Bein LaLiga http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Bein La Liga http://31.220.41.90:8081/live/bein-laliga.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",LaLiga TV Bar http://31.220.41.86:8081/live/es-laligatvbar.stream/playlist.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Movistar Deportes http://31.220.41.90:8081/live/es-movistar-deportes.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Movistar Deportes 2 http://31.220.41.90:8081/live/es-movistar-deportes2.stream/chunks.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",ESPN Sur http://23.237.78.54/live-1000/244/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Espn https://blackghost.live/get/tespn.php?canal=espn_sur&file=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Espn 2 https://blackghost.live/get/tespn.php?canal=espn2_sur&file=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Espn 3 https://blackghost.live/get/tespn.php?canal=espn3_sur&file=.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Fox Sports 1 Argentina https://blackghost.live/get/tespn.php?canal=fox1ar&file=.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Fox Sports 2 Argentina https://blackghost.live/get/tespn.php?canal=fox2ar&file=.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Fox Sports Premium https://blackghost.live/get/tespn.php?canal=foxpar&file=.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Fox Deportes https://blackghost.live/get/tespn.php?canal=foxdep&file=.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",TNT Sport https://akamai2-br.cdn.booyah.live/hls/1000010/71112076.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTE",TUDN 
+https://blackghost.live/sat/w-711.php?url=c78idlive21&k=blackgh0o0st&file=.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Bein n 
+http://matiasstornini00.shortcm.li/shio1.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Bein LaLiga 
+http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Bein La Liga 
+http://31.220.41.90:8081/live/bein-laliga.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTE",LaLiga TV Bar 
+http://31.220.41.86:8081/live/es-laligatvbar.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Movistar Deportes 
+http://31.220.41.90:8081/live/es-movistar-deportes.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Movistar Deportes 2 
+http://31.220.41.90:8081/live/es-movistar-deportes2.stream/chunks.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTE",ESPN Sur 
+http://23.237.78.54/live-1000/244/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Espn 
+https://blackghost.live/get/tespn.php?canal=espn_sur&file=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Espn 2 
+https://blackghost.live/get/tespn.php?canal=espn2_sur&file=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Espn 3 
+https://blackghost.live/get/tespn.php?canal=espn3_sur&file=.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Fox Sports 
+1 Argentina https://blackghost.live/get/tespn.php?canal=fox1ar&file=.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Fox Sports 2 Arg
+https://blackghost.live/get/tespn.php?canal=fox2ar&file=.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Fox Sports Premium 
+https://blackghost.live/get/tespn.php?canal=foxpar&file=.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Fox Deportes 
+https://blackghost.live/get/tespn.php?canal=foxdep&file=.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTE",TNT Sport 
+https://akamai2-br.cdn.booyah.live/hls/1000010/71112076.m3u8
 
 
