@@ -1,11 +1,16 @@
-#EXTINF:-1 channelId="2" genero="PELIS",noma
-https://www1431.ff-03.com/token=r2qhdgT7uZH8nDcCiMcWAA/1626075902/2800:cd0:/168/e/59/660c31b3f07ed140e29b6dc2986f659e-720p.mp4
-#EXTINF:-1 channelId="1" genero="PELIS",lugar
-https://storage.googleapis.com/cobalt-alliance-317006/I81SEHMYIQY1/22mes_a-quiet-place-part-ii_1111274.mp4
-#EXTINF:-1 channelId="3" genero="PELIS",PADRE
-https://damedamehoy.xyz/embed.html#RVJKWE1MNUhvUFBvNWNOclRhTkUvSGNkZHBPeXhnazVMb1k0MDRtRmcrQVozMGVyYlFGWmNvQWgrRDZ4L0U1bUk3bUJGMzFKL2xmN1ZmbnlEcllPcE5UalBhVjM1RWtCb0xvZXprRHVqcUU9
-#EXTINF:-1 channelId="4" genero="PELIS",VIUDA
-https://streamtape.com/e/G2B2qVXVoaf1RLJ/black-widow_0.mp4
-#EXTINF:-1 channelId="4" genero="PELIS",VIUDA 2
-https://867320393.tapecontent.net/radosgw/qZv4JK3z7DCL7Q/zL5QZ-aB-6EyryLswlKswXILeBPyRNSV26osk2E6O0EoIV79UrjP3bQEUoiIG36V8HJ9-dfp5xOm-v7pnY7Xj9wsu_ZAYi5bh77TQ-7XcEReb4-9vB_ceagBBzShwTj_KisPtWle8_UY_xUoxfxCfax50KLsS886gPf6CqIQkiSH3XBHaNqdhDrHzk8wXtaWSgRd2lnbvQA03M09zd63bul1A9gea_O2yH8KrypWgTSCoJV5EsgnT1JsC0A2h7YI_wY3WJqCk_xI1_ZUyvhRpo9a3OFMmTmLbt8uJw/0g0Dev4YKgZ.mp4
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://entrepeliculasyseries.io/Archivos/2021/07/space-jam-a-new-legacy.jpg" group-title="PELICULAS", SPACE JAM 
+http://201.172.61.203:88/Peliculas/jul%20agos/Space%20Jam%20-%20A%20New%20Legacy%20(2021).mp4
+#EXTINF:-1 tvg-logo="https://entrepeliculasyseries.io/Archivos/2021/07/black-widow.jpg" group-title="PELICULAS" , BLACK WIDOW
+http://201.172.61.203:88/Peliculas/jul%20agos/Black%20Window.mp4
 
+#EXTINF:-1 tvg-logo="https://entrepeliculasyseries.io/Archivos/2021/05/a-quiet-place-part-ii.jpg" group-title="PELICULAS" QUIET PLACE2
+https://storage.googleapis.com/cobalt-alliance-317006/I81SEHMYIQY1/22mes_a-quiet-place-part-ii_1111274.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/yjY9ElmM48sZaW1xktVyM2aa5QB.jpg" group-title="PELICULAS", PADRE
+https://www834.ff-02.com/token=LgQMknV2Nz_eV3vBniUHeg/1626914840/2800:cd0::/168/e/59/660c31b3f07ed140e29b6dc2986f659e-720p.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/4AcvqhsaE26hshLKZhXmnlsIkcq.jpg" group-title="PELICULAS", ESCUADRON SUICIDA
+http://201.172.61.203:88/Peliculas/jul%20agos/The.suicide.squad.2021.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg" group-title="PELICULAS", FAST AND FURI
+http://201.172.61.203:88/Peliculas/jul%20agos/Fast%20&%20Furious%209%20(2021)%201080.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/esgrxpxrQufea2A3iHJUquG4mdz.jpg" group-title="PELICULAS", JUNGLE CRUISE
+http://201.172.61.203:88/Peliculas/jul%20agos/Jungle%20Cruise%202021.mp4
