@@ -1,79 +1,121 @@
-#EXTINF:-1tvg-logo="" group-title="DEPORTE",TIGO SPORT PR
-https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/21ec7610fb8c4438ab96f2ab74010a9a/index_6.m3u8?thejoelc
-#EXTINF:-1tvg-logo"" group-title="DEPORTE",TIGO SPORT 2 
-https://d3kzwqwnq1f7tq.cloudfront.net:443/out/v1/21ec7610fb8c4438ab96f2ab74010a9a/index_6.m3u8?SBN
-#EXTINF:-1tvg-logo="" group-title="DEPORTE",TIGO  2
-https://d108h32trr4h8c.cloudfront.net/out/v1/d543fa4ff337450db0e38fcc19705c21/index_3.m3u8?thejoelc
-#EXTINF:-1tvg-logo="" group-title="DEPORTE",TIGOe 2
-http://cdn89.sportsbay.site:2052/live-2/444/chunks.m3u8?nimblesessionid=168299363&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDIxIDk6NTU6MjIgUE0maGFzaF92YWx1ZT1nQkxnOHdoZVBGcmFmZ0daVEFrcWd3PT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
-#EXTINF:-1tvg-logo="" group-title="DEPORTE",TIGO SPORTe 3
-http://cdn89.sportsbay.site:2052/live-2/445/chunks.m3u8?nimblesessionid=168297427&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDIxIDk6NTI6MjEgUE0maGFzaF92YWx1ZT1ENlM4NjNpQ3JzdHpWaExWa0RES0RBPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
-#EXTINF:-1tvg-logo="" group-title="OTROS",RCN 
-https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZR_SmPTCfhzjY8Ld65xGjgg)/p/dm/3/x7vyv0z/s/live-3.m3u8?SBN
-#EXTINF:-1tvg-logo="" group-title="OTROS",UNIVISION 
+
+#EXTM3U
+#EXTINF:-1tvg-logo="" group-title="OTROS",UNIVISION
 https://qlobbidev.s.llnwi.net:443/bpk-tv/UNIVISION/hls/UNIVISION-audio_132128_spa=128000-video=2900000.m3u8?SBN
-#EXTINF:-1tvg-logo="" group-title="OTROS",TP5
-http://91.126.141.13:1935/live/61/1800-def.m3u8
-#EXTINF:-1tvg-logo="" group-title="DEPORTE",TDN 
-http://209.126.105.142:25461/live/ab2e5dfbd6814b71a25a7d991ed46ad6/56e80de728e84f969b66805f66b247b3/14.m3u8?thejoelc
-#EXTINF:-1tvg-logo="" group-title="DEPORTE",SPTV 
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8?thejoelc
-#EXTINF:-1tvg-logo="" group-title="OTROS",AMÉRICA TV2
-https://qlobbidev.s.llnwi.net/bpk-tv/AMERICATV/hls/AMERICATV-audio_128175_eng=128000-video=2900000.m3u8
-#EXTINF:-1tvg-logo="" group-title="OTROS", TP4
-http://91.126.141.13:1935/live/51/1800-def.m3u8
-#EXTINF:-1tvg-logo="" group-title="DEPORTE",EUROSPORT 1
-http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w65928025.m3u8?mvk
-#EXTINF:-1tvg-logo="" group-title="DEPORTE",SPN USA
+#EXTINF:-1tvg-logo="" group-title="OTROS", TP5
+http://91.126.141.13:1935/live/61/1800-def.m3u8 
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", SPORT TV 
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8?thejoelc 
+#EXTINF:-1tvg-logo="" group-title="OTROS", TP 4 
+http://91.126.141.13:1935/live/51/1800-def.m3u8 
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", EUROSPORT
+http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w65928025.m3u8?mvk 
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", SPN ING
 http://134.19.182.131:8080/edg8_2.m3u8?mvk
-#EXTINF:-1tvg-logo="" group-title="DEPORTE",SPN2 USA
-https://qlobbidev.s.llnwi.net/bpk-tv/ESPN2/hls/index.m3u8?mvk
-#EXTINF:-1tvg-logo="" group-title="DEPORTE",7SPORT http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8?mvk
-#EXTINF:-1tvg-logo="" group-title="OTROS",RTV
-https://live-dvr.eitb-fastly.cross-media.es:443/live-content/oka2hd-hls/bitrate_4.m3u8
-#EXTINF:-1tvg-logo="" group-title="DEPORTE",MOVISTAR F1
-https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naXN0ZWYuZnIvYnJvd3NlLnBocD91PQ==/31.220.41.87:8081/live/es-moviestarf1.stream/playlist.m3u8?linksports
-#EXTINF:-1tvg-logo="" group-title="DEPORTE",SPN2 LAT
-https://qlobbidev.s.llnwi.net/bpk-tv/ESPN2/hls/index.m3u8?linksports
-#EXTINF:-1tvg-logo="" group-title="OTROS",R5
-http://91.126.141.13:1935/live/61/playlist.m3u8
-#EXTINF:-1tvg-logo="" group-title="DEPORTE",DIREC TV SPORT
-https://vsd109.mycdn.me:443/hls/1331274713855.m3u8/sig/DlYHgbClzIA/expires/1625684719145/srcIp/85.85.29.12/clientType/0/srcAg/CHROME_ANDROID/mid/2283186560767/1331274713855_high/index.m3u8?SBN
-#EXTINF:-1tvg-logo="" group-title="OTROS", TELEVISION 5
-https://live.telecinco.es/hls/live/2004101/telecinco/bitrate_4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",TUDN 
-https://blackghost.live/sat/w-711.php?url=c78idlive21&k=blackgh0o0st&file=.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Bein n 
-http://matiasstornini00.shortcm.li/shio1.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Bein LaLiga 
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", ELEVEN SPORT
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8?mvk 
+#EXTINF:-1tvg-logo="" group-title="OTROS", TP5
+http://91.126.141.13:1935/live/61/playlist.m3u8 
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", BEIN LA LIGA
 http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Bein La Liga 
-http://31.220.41.90:8081/live/bein-laliga.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",LaLiga TV Bar 
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", BEIN 2 LA LIGA
+http://31.220.41.90:8081/live/bein-laliga.stream/playlist.m3u8 
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", MOVISTAR BAR
 http://31.220.41.86:8081/live/es-laligatvbar.stream/playlist.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Movistar Deportes 
-http://31.220.41.90:8081/live/es-movistar-deportes.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Movistar Deportes 2 
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", MOVISTAR DEP 2
 http://31.220.41.90:8081/live/es-movistar-deportes2.stream/chunks.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",ESPN Sur 
-http://23.237.78.54/live-1000/244/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Espn 
-https://blackghost.live/get/tespn.php?canal=espn_sur&file=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Espn 2 
-https://blackghost.live/get/tespn.php?canal=espn2_sur&file=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Espn 3 
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", ESPN SUR
+https://blackghost.live/get/tespn.php?canal=espn_sur&file=.m3u8 
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", ESPN2
+https://blackghost.live/get/tespn.php?canal=espn2_sur&file=.m3u8 
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", ESPN3
 https://blackghost.live/get/tespn.php?canal=espn3_sur&file=.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Fox Sports 1 Argentina 
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", FOX AR1
 https://blackghost.live/get/tespn.php?canal=fox1ar&file=.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Fox Sports 2 Argentina 
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", FOX AR2
 https://blackghost.live/get/tespn.php?canal=fox2ar&file=.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Fox Sports Premium 
-https://blackghost.live/get/tespn.php?canal=foxpar&file=.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",Fox Deportes 
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", FOX DEP
 https://blackghost.live/get/tespn.php?canal=foxdep&file=.m3u8 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",TNT Sport1 
-https://akamai2-br.cdn.booyah.live/hls/1000010/71112076.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",TNT Sport2
-http://cdn89.sportsbay.site:2052/live-2/297/chunks.m3u8?nimblesessionid=160036241&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIxIDEwOjQ0OjE4IFBNJmhhc2hfdmFsdWU9RGYzR25zVUplTWx2VUxkOEpvQVB2dz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=
-#EXTINF:-1 tvg-logo="" group-title="DEPORTE",UFC
-http://cdn89.sportsbay.site:2052/live-2/302/chunks.m3u8?nimblesessionid=160039081&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIxIDEwOjQ3OjMzIFBNJmhhc2hfdmFsdWU9L2Q0eXlOYlVpeXRueDdpSTZTaVRaQT09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", ESPN 2
+http://195.181.163.39:80/DEP_ESPN_2_ARG/index.m3u8?token=1CUdxaF2Z2M9DewCbmhsJUwqDJCxMo7mcx
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", AZTECA DEP
+http://195.181.163.39:80/LAT_Azteca_Deportes_HD/index.m3u8?token=e195efcfe90b4f372fdac8584c0fa7de
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", FOX SPORT2
+http://195.181.163.39:80/DEP_FOX_SPORTS_2_ARG/index.m3u8?token=d02719aa1866b6a13fd20268b6fb5f5b
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", DIRECTV PLUS
+http://195.181.163.39:80/DEP_DIRECTV_PLUS/index.m3u8?token=5a63042d14a96ae8609c292c91ca0850
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", DIRECTV 2
+http://195.181.163.39:80/ECU-DIRECTTV_SP2/index.m3u8?token=91954d9ef7cf78528e75725aa4f7e223
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", FOX SPORT PREM
+http://195.181.163.39:80/DEP_FOX_SPORTS_PREM_ARG/index.m3u8?token=ee66cd6e81c7bf28ccf407de07b91e4d
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", GOL TV
+http://195.181.163.39:80/ESP_GOL_TV_HD/index.m3u8?token=2d99dd79bb9b8bd917fbee9e40f63aef
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", WIN SPORT
+http://195.181.163.39:80/DEP_WIN_SPORTS/index.m3u8?token=40c40d060bac73a44076782502481e7a
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", FOX SPORT 1
+http://31.220.41.88:8081/live/nl-foxsports1.stream/chunks.m3u8
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", FOX SPORT 2
+http://31.220.41.88:8081/live/nl-foxsports2.stream/chunks.m3u8
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", FOX SPORT 3
+http://31.220.41.88:8081/live/nl-foxsports3.stream/chunks.m3u8
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", FOX SPORT 4
+http://31.220.41.88:8081/live/nl-foxsports4.stream/chunks.m3u8
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", EURO SPORT
+http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", EURO SPORT2
+http://91.126.141.201:1935/live/eurosport2hdnntv/playlist.m3u8
+#EXTINF:-1tvg-logo="" group-title="OTROS", STAR LIFE
+http://45.179.140.242:8000/play/a0h4
+#EXTINF:-1tvg-logo="" group-title="OTROS", STAR CHANNEL
+http://45.179.140.242:8000/play/a0h5
+#EXTINF:-1tvg-logo="" group-title="OTROS", NAT GEO KIDS
+http://45.179.140.242:8000/play/a0h6
+#EXTINF:-1tvg-logo="" group-title="OTROS", NICKELO
+http://45.179.140.242:8000/play/a0h1
+#EXTINF:-1tvg-logo="" group-title="OTROS", NAT GEO
+http://45.179.140.242:8000/play/a0h2
+#EXTINF:-1tvg-logo="" group-title="OTROS", MTV
+http://45.179.140.242:8000/play/a0h3
+#EXTINF:-1tvg-logo="" group-title="OTROS", TNT
+http://45.179.140.242:8000/play/a0h8
+#EXTINF:-1tvg-logo="" group-title="OTROS", 
+http://45.179.140.242:8000/play/a0h1
+#EXTINF:-1tvg-logo="" group-title="OTROS", CINEMAX
+http://45.179.140.242:8000/play/a0hb
+#EXTINF:-1tvg-logo="" group-title="OTROS", SONY
+http://45.179.140.242:8000/play/a0hc
+#EXTINF:-1tvg-logo="" group-title="OTROS", AXN
+http://45.179.140.242:8000/play/a0hd
+#EXTINF:-1tvg-logo="" group-title="OTROS", SPACE
+http://45.179.140.242:8000/play/a0he
+#EXTINF:-1tvg-logo="" group-title="OTROS", FX
+http://45.179.140.242:8000/play/a0hf
+#EXTINF:-1tvg-logo="" group-title="OTROS", RTS
+http://45.179.140.242:8000/play/a0hg
+#EXTINF:-1tvg-logo="" group-title="OTROS", NICKJNR
+http://45.179.140.242:8000/play/a0hh
+#EXTINF:-1tvg-logo="" group-title="OTROS", DISCOVERY TURBO
+http://45.179.140.242:8000/play/a0hi
+#EXTINF:-1tvg-logo="" group-title="DESPORTES", ESPN3
+http://45.179.140.242:8000/play/a0hk
+#EXTINF:-1tvg-logo="" group-title="OTROS", TC
+http://45.179.140.242:8000/play/a0hm
+#EXTINF:-1tvg-logo="" group-title="OTROS", EV
+http://45.179.140.242:8000/play/a0ho
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", ESPN 1
+http://45.179.140.242:8000/play/a0hq
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", CLARO
+http://45.179.140.242:8000/play/a0ht
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", ESPN 2
+http://45.179.140.242:8000/play/a0hz
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", FOX SPORT 1
+http://45.179.140.242:8000/play/a0ge
+#EXTINF:-1tvg-logo="" group-title="OTROS", TELEMUNDO
+http://45.179.140.242:8000/play/a0gf
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", FOX SPORT 3
+http://45.179.140.242:8000/play/a0ge
+#EXTINF:-1tvg-logo="" group-title="OTROS", WARNER
+http://45.179.140.242:8000/play/a0fz
+#EXTINF:-1tvg-logo="" group-title="DEPORTES", ESPN HD
+http://45.179.140.242:8000/play/a058
+
