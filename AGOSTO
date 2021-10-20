@@ -136,4 +136,5 @@ http://cdn.stg.cvattv.com.ar/live/live2/HistoryHD/SA_Live_fta/index.m3u8
 http://edge1.stg.cvattv.com.ar/live/live2/DiscoveryHD/SA_Live_fta/index.m3u8
 #EXTINF:-1,Spn 33
 https://blackghost.live/play/totalp1-990.php?c=149&p=3&k=black&f=.m3u8
-
+#EXTINF:-1, TIGO SPORT 1
+http://cdnhd.iblups.com/hls/wPq4dRzL5T.m3u8
